@@ -115,8 +115,7 @@ social-media-content-scheduler/
 │ ├── cron/
 │ ├── middleware/
 │ └── server.js
-│
-├── README.md
+|
 ├── TESTING.md
 ```
 
