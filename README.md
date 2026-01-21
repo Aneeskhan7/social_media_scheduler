@@ -116,6 +116,7 @@ social-media-content-scheduler/
 │ ├── middleware/
 │ └── server.js
 |
+├──gitignore
 ├── TESTING.md
 ```
 
