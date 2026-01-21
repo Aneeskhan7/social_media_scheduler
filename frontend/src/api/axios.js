@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api"
+  baseURL: "https://social-media-scheduler-mer5.onrender.com/"
 });
 
 // Attach token automatically
